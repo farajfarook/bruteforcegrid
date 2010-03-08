@@ -1,0 +1,3 @@
+BruteForceGrid.WorkingComponent.FTServerService
+BruteForceGrid.WorkingComponent.FileTransferServer
+BruteForceGrid.WorkingComponent.FTServerServiceInitiator
