@@ -1,2 +1,0 @@
-BruteForceGrid.WorkingComponent.LocalJobMonitor
-BruteForceGrid.WorkingComponent.MonitorLocalJob

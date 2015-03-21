@@ -1,2 +1,0 @@
-BruteForceGrid.DataCollection.PeerConnector
-BruteForceGrid.DataCollection.LocalJob

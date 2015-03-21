@@ -1,2 +1,0 @@
-BruteForceGrid.WorkingComponent.Prober
-BruteForceGrid.WorkingComponent.ServerProber

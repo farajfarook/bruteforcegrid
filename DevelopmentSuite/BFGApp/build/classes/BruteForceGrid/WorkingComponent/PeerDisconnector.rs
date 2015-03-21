@@ -1,2 +1,0 @@
-BruteForceGrid.WorkingComponent.Disconnector
-BruteForceGrid.WorkingComponent.PeerDisconnector

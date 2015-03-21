@@ -1,2 +1,0 @@
-BruteForceGrid.DataCollection.FlagUpdater
-BruteForceGrid.DataCollection.CommonFlag

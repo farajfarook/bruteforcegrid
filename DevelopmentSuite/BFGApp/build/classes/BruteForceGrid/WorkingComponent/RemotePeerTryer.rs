@@ -1,3 +1,0 @@
-BruteForceGrid.WorkingComponent.RemotePeerTryer
-BruteForceGrid.WorkingComponent.Connector
-BruteForceGrid.WorkingComponent.connectionSheduler

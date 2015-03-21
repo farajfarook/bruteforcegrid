@@ -1,2 +1,0 @@
-BruteForceGrid.WorkingComponent.RemoteConnectivityMonitor
-BruteForceGrid.WorkingComponent.Checker
